@@ -1,0 +1,24 @@
+.ul_style {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+
+.li_style {
+    background-color: cornsilk;
+    border: 1px solid burlywood;
+    border-radius: 5px 2px;
+    margin: 8px 0;
+}
+
+.btn_style {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: transparent;
+    border: 0;
+    padding: 10px;
+    font-weight: bolder;
+    cursor: pointer;
+    border-radius: 5px;
+}
